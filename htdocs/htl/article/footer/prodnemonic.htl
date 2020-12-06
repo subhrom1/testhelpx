@@ -1,0 +1,17 @@
+<div class="grid-cols-3 product-col">
+        <div class="product-mnemonic-header">
+            <img width="32" height="32"
+                src="/content/dam/help/mnemonics/ps_cc_app_RGB.svg"
+                alt="Adobe Photoshop" />
+            <h1>Adobe Photoshop</h1>
+        </div>
+        <ul class="product-mnemonic-links">
+            <li id="seeAllApps"><a href="#">&lt; See all apps</a></li>
+        </ul>
+        <ul id="hubLinks" class="product-mnemonic-links">
+            <li><a href="#">Learn &amp; Support</a></li>
+            <li><a href="#">Get Started</a></li>
+            <li><a href="#">User Guide</a></li>
+            <li><a href="#">Tutorials</a></li>
+        </ul>
+</div>

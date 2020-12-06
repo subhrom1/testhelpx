@@ -1,0 +1,18 @@
+<div class="article-footer">
+    <div class="grid-container container">
+        <div class="grid-row">
+            <esi:include src="/htl/article/footer/prodnemonic.htl" onerror="continue" />
+
+            <div class="grid-cols-6 hotspots-col-container">
+                <esi:include src="/htl/article/footer/community.htl" onerror="continue" />
+                <esi:include src="/htl/article/footer/contact.htl" onerror="continue" />
+            </div>
+
+            <div class="grid-cols-3 last-col">
+                <a class="hx-back-to-top" href="#" onclick="globalBackToTop()">^&nbsp;Back
+                    to top</a>
+                <esi:include src="/htl/article/footer/feedbackpod.htl" onerror="continue" />
+            </div>
+        </div>
+    </div>
+</div>

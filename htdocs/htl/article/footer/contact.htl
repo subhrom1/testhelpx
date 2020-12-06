@@ -1,0 +1,12 @@
+<div class="grid-cols-3 hotspots-col">
+    <div class="hotspots">
+        <div id="contactus">
+            <span class="support-topics-icon contact-us-svg"></span>
+            <h3><span>Contact Us</span></h3>
+            <p><span class="c-description">Real help from real
+                    people.</span></p>
+            <a class="hx-red-button" href="#">Start
+                now</a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,13 @@
+<div class="grid-cols-3 hotspots-col">
+    <div class="hotspots">
+        <div id="askthecommunity">
+            <span class="support-topics-icon
+                    ask-the-community-svg"></span>
+            <h3><span>Ask the Community</span></h3>
+            <p><span class="c-description">Post questions and
+                    get answers from experts.</span></p>
+            <a class="hx-red-button" href="https://community.adobe.com/t5/Photoshop/bd-p/photoshop">Ask
+                now</a>
+        </div>
+    </div>
+</div>
