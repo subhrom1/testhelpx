@@ -10,5 +10,5 @@ definitions:
 strains:
   - name: default
     code: *defaultRepo
-    content: *defaultRepo
+    content:  https://github.com/subhrom1/testhelpxcontent#master
     static: *defaultRepo
