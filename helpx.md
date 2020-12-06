@@ -7,4 +7,7 @@ This issue can occur when you use an older printer driver, or when files have be
 Sometimes, the printer driver's preferences can become damaged. Solution 3 (macOS) and Solution 5 (Windows) remove the driver, which also removes the driver's preferences.
 
 <hr/>
+<img src="/content/dam/help/mnemonics/ps_cc_app_RGBq.svg" alt="Adobe Photoshop" title="Adobe Photoshop"/>
+
+<hr/>
 

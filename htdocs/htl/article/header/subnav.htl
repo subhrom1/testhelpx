@@ -1,4 +1,4 @@
-<div id="AdobeSecondaryNav" class="Subnav-wrapper" style="background-color: #202020 !important;">
+<div id="AdobeSecondaryNav" class="Subnav-wrapper">
 
     <nav class="Subnav" data-signedin-force-trial="true">
         <button class="Subnav-trigger" aria-expanded="false" aria-haspopup="true" aria-label="Adobe Photoshop"></button>
@@ -20,36 +20,10 @@
 
     </li>
 
-    <li class="Subnav-menu-item has-submenu">
+    <li class="Subnav-menu-item">
 
-        <a class="Subnav-menu-label" href="#" title="Features" data-type="item" aria-haspopup="true" aria-expanded="false" role="button">Features</a>
-        <div class="Subnav-submenus" data-type="popup" data-gnav-scrollable="desktop">
-            <div class="Subnav-submenu-wrapper">
+        <a class="Subnav-menu-label" href="https://www.adobe.com/products/photoshop/ipad.html?promoid=2FDNCKN8&mv=other" title="Features" data-type="item" aria-haspopup="true" aria-expanded="false" role="button">Features</a>
 
-                <ul class="Subnav-submenu" data-type="column">
-                    <li class="Subnav-submenu-item">
-                        <a href="https://helpx.adobe.com/photoshop/using/whats-new.html?promoid=2SLRC6G5&mv=other" title="What&#39;s New" class="Subnav-submenu-link" data-type="columnitem">
-                            <span class="Subnav-submenu-title">What&#39;s New</span>
-
-                        </a>
-                    </li>
-
-                    <li class="Subnav-submenu-item">
-                        <a href="https://www.adobe.com/products/photoshop/photoshop-brushes.html?promoid=YB1TGNX3&mv=other" title="Photoshop Brushes" class="Subnav-submenu-link" data-type="columnitem">
-                            <span class="Subnav-submenu-title">Photoshop Brushes</span>
-
-                        </a>
-                    </li>
-
-                    <li class="Subnav-submenu-item">
-                        <a href="https://www.adobe.com/products/photoshop/content-aware-fill.html?promoid=SYBNM1M5&mv=other" title="Content-Aware Fill" class="Subnav-submenu-link" data-type="columnitem">
-                            <span class="Subnav-submenu-title">Content-Aware Fill</span>
-
-                        </a>
-                    </li>
-                </ul>
-            </div>
-        </div>
     </li>
     <li class="Subnav-menu-item">
         <a class="Subnav-menu-label" href="/content/help/en/photoshop.html?promoid=5NHJ8FD2&mv=other" title="Learn &amp; Support" data-type="item">Learn &amp; Support</a>
