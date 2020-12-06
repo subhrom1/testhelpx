@@ -11,4 +11,4 @@ strains:
   - name: default
     code: *defaultRepo
     content:  *defaultRepo
-    static: https://github.com/subhrom1/testhelpx.git/htdocsdfcfs#master
+    static: https://github.com/subhrom1/testhelpx.git/htdocs#master
