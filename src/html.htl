@@ -25,7 +25,8 @@
     <link rel="stylesheet" href="/style.css"/>
 </head>
 <body>
-    <header><esi:include src="/header.plain.html" onerror="continue"/></header>
+
+    <header><esi:include src="/header.html" onerror="continue"/></header>
 
     <article style="margin-top: 0px;">
       ${content.document.body.innerHTML}
