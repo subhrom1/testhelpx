@@ -1,0 +1,25 @@
+<div id="title-bar" class="titlebar">
+        <div class="container clearfix">
+             <h1 style="font-size:1.5em;">Print settings option unavailable in Print dialog box</h1>
+            <div class="back-to-search"><span>Search</span></div>
+
+                <!-- USS search container -->
+                <div id="search" class="UssSearchInterface" data-enable-history="true">
+                        <div class="UssAnalytics" data-search-hub="AEM Customer Search" data-anonymous="true">
+                        </div>
+                    <section id="search-section" class="UssSearchInterface UssState UssComponentState UssComponentOptions UssQueryController UssDebug">
+                        <div type="text" class="UssOmnibox uss-box uss-box-hasFocus" data-enable-top-query-addon="false" data-enable-reveal-query-suggest-addon="true" data-enable-search-as-you-type="false" data-enable-wildcards="true" data-search-as-you-type-delay="1000" data-placeholder="Search Adobe Support">
+                            <div class="uss-box-clear">
+                                <div class="uss-box-icon">
+                                </div>
+                            </div>
+                            <div class="uss-box-input">
+                                <input tabindex="0" spellcheck="false" autocomplete="off" form="uss-dummy-form" placeholder="Search Adobe Support" aria-label="Search Adobe Support" type="text" maxlength="168" class="search-input-field" id="uss-search-input" oninput="submitAutoCompleteQuery()" onfocus="ussWithFocus()" onblur="ussWithoutFocus()"/>
+                            </div>
+                        </div>
+                        <input type="submit" id="uss-submit-button" class="UssSearchButton" value="" tabindex="-1"/>
+                        <span class="query-box-clear icon" id="uss-querybox-clear" onclick="clearSearchBox();"></span>
+                    </section>
+                </div>
+        </div>
+</div>
