@@ -898,9 +898,11 @@ a.Subnav-logo([href*='#']):hover {
 }
 
 #uss-search-container div#search input[type="submit"].UssSearchButton {
-    font-family: 'icomoon' !important;
-    speak: none;
+    background-image: url(/content/dam/help/button.png);
+    background-position-x: center;
+    background-position-y: center;
     font-style: normal;
+    background-size: 110%;
     font-weight: normal;
     font-variant: normal;
     text-transform: none;

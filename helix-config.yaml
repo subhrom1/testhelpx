@@ -12,3 +12,4 @@ strains:
     code: *defaultRepo
     content:  *defaultRepo
     static: https://github.com/subhrom1/testhelpx.git/htdocs#master
+
