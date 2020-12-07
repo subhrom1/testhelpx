@@ -4,7 +4,7 @@
         <button class="Subnav-trigger" aria-expanded="false" aria-haspopup="true" aria-label="Adobe Photoshop"></button>
         <a class="Subnav-logo" href="https://www.adobe.com/products/photoshop.html">
             <i class="icon-spacing Subnav-logo-image" aria-hidden="true">
-                <img src="/content/dam/help/mnemonics/ps_cc_app_RGB.svg" alt="Adobe Photoshop" title="Adobe Photoshop"/>
+                <img src="/content/dam/help/mnemonics/ps_cc_app_RGB.svg" alt="Adobe Photoshop" title="Adobe Photoshop" width="30" />
             </i>
             <h1 class="Subnav-logo-text">
      Adobe Photoshop
