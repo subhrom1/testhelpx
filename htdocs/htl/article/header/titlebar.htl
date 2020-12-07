@@ -1,6 +1,6 @@
 <div id="title-bar" class="titlebar">
     <div class="container clearfix">
-        <h1 class="page-title">Print settings option unavailable in Print dialog box</h1>
+        <h1 class="page-title">${content.title}</h1>
         <div class="back-to-search"><span>Search</span></div>
 
         <!-- USS search container -->

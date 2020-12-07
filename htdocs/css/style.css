@@ -5,7 +5,29 @@
     position: relative !important;
     top: 10px;
 }
-
+.grid-cols-9 {
+    counter-reset: step-counter;
+}
+.titlebar {
+    padding-top: 10px;
+}
+.grid-cols-9 ol li:before{
+    content: counter(step-counter);
+    counter-increment: step-counter;
+    border-radius: 50%;
+    left: -20px;
+    position: relative;
+    float: left;
+    top: 0;
+    font-size: 13px;
+    height: 27px;
+    width: 27px;
+    padding: 4px;
+    text-align: center;
+    font-weight: 400;
+    color: #fff;
+    background: #333;
+}
 
 header {
     background-color: #fff !important

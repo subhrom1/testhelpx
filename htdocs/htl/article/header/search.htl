@@ -1,4 +1,4 @@
-<div id="uss-search-container">
+<div id="uss-search-container" style="margin-top:10px;">
         <div id="search" class="UssSearchInterface" data-enable-history="true">
             <div class="UssAnalytics" data-search-hub="AEM Customer Search" data-anonymous="true">
             </div>
