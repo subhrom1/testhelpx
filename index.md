@@ -37,3 +37,4 @@ It works! testhelpx is up and running.
 6. Deploy the project: `hlx deploy`
 
 7. Make it visible to the world: `hlx publish`
+

@@ -3,4 +3,7 @@
 ![Image](/content/dam/help/photoeditor.jpg)
 
 <esi:include src="/htdocs/fragments/proc2.md" />
+<esi:include src="/text.md">
 <esi:include src="video.md"/>
+<esi:include src="tablelayout.md"/>
+
